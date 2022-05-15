@@ -1,4 +1,4 @@
-# Notes in Issues, Code in Notebook
+# Notes in Issues
 
 1. AutoEncoder
 2. VQ-VAE
