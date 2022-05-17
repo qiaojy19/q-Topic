@@ -1,4 +1,4 @@
-# Explain & Understand Knowledge
+# Explain Knowledge (in Chinese)
 
 1. [Auto-Regressive Model](https://github.com/qiaojy19/q-Knowledge/issues/1)
 2. [VQ-VAE](https://github.com/qiaojy19/q-Knowledge/issues/2)
