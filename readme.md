@@ -1,4 +1,4 @@
-# Notes in Issues
+# Explain & Understand Knowledge
 
 1. [Auto-Regressive Model](https://github.com/qiaojy19/q-Knowledge/issues/1)
 2. [VQ-VAE](https://github.com/qiaojy19/q-Knowledge/issues/2)
