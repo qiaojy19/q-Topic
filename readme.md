@@ -4,6 +4,7 @@
 - [GAN Loss 推导](https://github.com/qiaojy19/q-Topic/issues/19)
 - [Conditional GAN](https://github.com/qiaojy19/q-Topic/issues/20)
 
+2. [Image-to-Image Translation](https://github.com/qiaojy19/q-Topic/issues/18)
 
 ## Generative Models
 1. [Auto-Regressive Model](https://github.com/qiaojy19/q-Topic/issues/1)
