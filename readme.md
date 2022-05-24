@@ -1,4 +1,4 @@
-# Explain Ideas
+# Explain Some Topics
 
 ## Generative Models
 1. [Auto-Regressive Model](https://github.com/qiaojy19/q-Knowledge/issues/1)
