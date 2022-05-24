@@ -10,14 +10,14 @@
 4. [Diffusion Model](https://github.com/qiaojy19/q-Topic/issues/3)
 5. [Hidden Markov Model](https://github.com/qiaojy19/q-Topic/issues/4)
 
+# Privacy
+
+1. [Differential Privacy](https://github.com/qiaojy19/q-Topic/issues/13)
+
 # Transformer
 1. [Transformers & Multi-Head Attention](https://github.com/qiaojy19/q-Topic/issues/6)
 2. [Self-Attention](https://github.com/qiaojy19/q-Topic/issues/7)
 3. [Seq2Seq](https://github.com/qiaojy19/q-Topic/issues/8)
-
-# Privacy
-
-1. [Differential Privacy](https://github.com/qiaojy19/q-Topic/issues/13)
 
 
 # Others
