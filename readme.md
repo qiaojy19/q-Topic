@@ -13,16 +13,15 @@
 # Privacy
 
 1. [Differential Privacy](https://github.com/qiaojy19/q-Topic/issues/13)
-
+2. [Moreau envelope](https://github.com/qiaojy19/q-Topic/issues/10)
+3. 
 # Transformer
 1. [Transformers & Multi-Head Attention](https://github.com/qiaojy19/q-Topic/issues/6)
 2. [Self-Attention](https://github.com/qiaojy19/q-Topic/issues/7)
 3. [Seq2Seq](https://github.com/qiaojy19/q-Topic/issues/8)
-
-
-# Others
 1. [Layer Normalization](https://github.com/qiaojy19/q-Topic/issues/9)
-2. [Moreau envelope](https://github.com/qiaojy19/q-Topic/issues/10)
-3. [Knowledge Distillation](https://github.com/qiaojy19/q-Topic/issues/11)
+
+# Distillation
+1. [Knowledge Distillation](https://github.com/qiaojy19/q-Topic/issues/11)
 4. [Kullback-Leibler Divergence](https://github.com/qiaojy19/q-Topic/issues/12)
 6. [Poisson, Exponential, Laplace Distribution](https://github.com/qiaojy19/q-Topic/issues/14)
