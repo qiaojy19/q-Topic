@@ -10,6 +10,9 @@
 4. [Diffusion Model](https://github.com/qiaojy19/q-Topic/issues/3)
 5. [Hidden Markov Model](https://github.com/qiaojy19/q-Topic/issues/4)
 
+# Metrics
+1. [Structural SIMilarity index](https://github.com/qiaojy19/q-Topic/issues/21)
+
 # Privacy
 
 1. [Differential Privacy](https://github.com/qiaojy19/q-Topic/issues/13)
